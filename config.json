@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpetch",
+        "uuid": 25068800,
+        "checksum": "ifqmoa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
